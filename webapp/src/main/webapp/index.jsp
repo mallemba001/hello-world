@@ -3,4 +3,4 @@
 <h2>jenkins pulling from git v1 sunday 3.7.2021 </h2>
 <h2>ansible executing v3 3.7.2021 </h2>
 <h2>jenkins running from ansible to push to dockerhub and run on docker executing v4 3.7.2021 </h2>
-<h2>kubernetes automation using jenkins , maven , git , docker , ansible v1.2 3/8/2021 </h2>
+<h2>kubernetes automation using jenkins , maven , git , docker , ansible v2.2 3/8/2021 </h2>
